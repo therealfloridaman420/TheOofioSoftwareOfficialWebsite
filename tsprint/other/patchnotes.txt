@@ -342,3 +342,13 @@ made background of song display on custom level data screen change to blue when 
 made all font characters 32x32 to hopefully make the the better
 added box that snaps to where tiles will be placed in editor (with setting to disable)
 fixed jump pad sprite in editor tile select being like 5 updates outdated
+
+---1.02--- (08/19/24)
+added code to sorta stop newer levels from loading in the current version (it would probably crash anyways, i just want to future-proof the last patch of 1.0)
+added link to an online levels page in case some actually get made (found in info menu, mostly a file dump with extra steps)
+added link to discord in info menu
+added apostrophe to the font
+fixed custom songs (sadly breaking levels that used them before, fixable by just entering the new song id in the level settings editor menu though)
+changed how whitelisted song links work to allow for all songs added later to work on this version
+moved everything (and i mean everything) to a new domain ("coolcatzzz.neocities.org" to "oofiosoftware.net/tsprint")
+added setting to disable player start position in the editor

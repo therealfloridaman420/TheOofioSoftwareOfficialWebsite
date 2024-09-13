@@ -352,3 +352,7 @@ fixed custom songs (sadly breaking levels that used them before, fixable by just
 changed how whitelisted song links work to allow for all songs added later to work on this version
 moved everything (and i mean everything) to a new domain ("coolcatzzz.neocities.org" to "oofiosoftware.net/tsprint")
 added setting to disable player start position in the editor
+
+
+---1.02_01--- (09/13/24)
+fixed yet another bug making custom songs never play

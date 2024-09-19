@@ -356,3 +356,9 @@ added setting to disable player start position in the editor
 
 ---1.02_01--- (09/13/24)
 fixed yet another bug making custom songs never play
+
+---1.02_02--- (09/19/24)
+fixed tile grid box marker thing not allowing block placing/deleting
+fixed second coin in "Base After Base" being impossible
+fixed custom song adding thing not pulling from the right place (meaning song ids above 20 won't load)
+added gif to loading screen
